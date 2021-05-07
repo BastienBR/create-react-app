@@ -1,8 +1,8 @@
 # AVANCEMENT DU TP NOTE
 
-Palier 1 : Création d'un app React avec fonctionnement en local et push sur github
-Palier 2 : Création d'une application sur Heroku et déploiement continu du projet avec un github actions
-Palier 3 : Rédaction d'un dockerfile pour build une image du repo
+Palier 1 : Création d'un app React avec fonctionnement en local et push sur github \
+Palier 2 : Création d'une application sur Heroku et déploiement continu du projet avec un github actions \
+Palier 3 : Rédaction d'un dockerfile pour build une image du repo \
 
 
 
